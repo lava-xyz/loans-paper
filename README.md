@@ -1,3 +1,3 @@
 # loans-spec
 
-This repository contains the Lava Loans protocol specification. For more information, please check out lava.xyz. 
+This repository contains the specification for the Lava Loans Protocol. For more information, please check out lava.xyz. 
